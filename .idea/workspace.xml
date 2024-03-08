@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="024e6875-2ae0-4988-8f4f-1bc80aacca25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/firstKBEapp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="024e6875-2ae0-4988-8f4f-1bc80aacca25" name="Changes" comment="first (real-ish) commit!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstKBEapp.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstKBEapp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -69,11 +69,25 @@
       <updated>1709238920399</updated>
       <workItem from="1709238921453" duration="11000" />
       <workItem from="1709647359087" duration="206000" />
-      <workItem from="1709896109173" duration="1644000" />
+      <workItem from="1709896109173" duration="3254000" />
+      <workItem from="1709912256586" duration="72000" />
     </task>
+    <task id="LOCAL-00001" summary="first (real-ish) commit!">
+      <option name="closed" value="true" />
+      <created>1709909506654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709909506654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first (real-ish) commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="first (real-ish) commit!" />
   </component>
 </project>
