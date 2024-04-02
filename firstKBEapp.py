@@ -1,3 +1,4 @@
+from parapy.core import Part, Attribute
 from prompt_toolkit.input import Input
 
 # hello
@@ -28,3 +29,5 @@ class Flap(HLD):
     chord = Input()
 
 class Slat(HLD):
+    span = Input()
+    chord = Input()

@@ -33,7 +33,7 @@ class TGV(Train):
         return setslot(obj, "wagon[1].color", self.diner_car_colour)  # this sets the attribute of an object
 
 
-class Aircraft(MeansOfTransportation):
+class Aircraft(MeansOfTransportation):  # comment test and it's bad
     cruise_altitude = Input(12000)  # meters
 
     @Attribute
